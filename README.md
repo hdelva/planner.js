@@ -1,5 +1,11 @@
 # Planner.js: A JS library for route planning
 
+*This is a frozen branch to demonstate the creation of transfer footpaths.*
+
+It does not create the RDF files themselves, only the contents in a very crude file-based system.
+
+---
+
 🛸️ [![Build Status](https://travis-ci.org/openplannerteam/planner.js.svg?branch=dev)](https://travis-ci.org/openplannerteam/planner.js) 🚴 [![MIT License](https://img.shields.io/github/license/openplannerteam/planner.js.svg?maxAge=2592000)](https://github.com/openplannerteam/planner.js/blob/master/LICENSE) 🚉  [![npm version](https://badge.fury.io/js/plannerjs.svg)](https://badge.fury.io/js/plannerjs) 🚀
 
 ```
