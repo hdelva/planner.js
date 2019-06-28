@@ -3,6 +3,8 @@
 *This is a frozen branch to demonstate the creation of transfer footpaths.*
 
 It does not create the RDF files themselves, only the contents in a very crude file-based system.
+Most of the relevant code is in src/analytics/footpaths. 
+The `analyze_approximations.ipynb` notebook contains the code that was run to analyze the approximations, along with some bonus material that combines it with the great-circle distance.
 
 ---
 
